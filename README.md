@@ -2,9 +2,7 @@
 
 ### I am a __frontend developer__
 
-- 🔭 I’m currently working on [__a project management app__](../../../project-management)
-- 🌱 I’m currently learning __Node.js, Express and MongoDB__
-- <a href="https://www.instagram.com/bllakcn/" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/bllakcn/" target="_blank" rel="noreferrer">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png" width="24">
 </a><a href="https://twitter.com/bllakcn" target="_blank" rel="noreferrer">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png" width="24">
@@ -14,4 +12,6 @@
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png" width="24">
 </a>
 
+- 🔭 I’m currently working on [__a project management app__](../../../project-management)
+- 🌱 I’m currently learning __Node.js, Express and MongoDB__
 
