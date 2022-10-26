@@ -12,5 +12,9 @@
 
 ### I am a __frontend developer__
 
-- 🔭 I’m currently working on [__a project management app__](../../../project-management)
-- 🌱 I’m currently learning __Node.js, Express and MongoDB__
+- 🔭 working on [__a project management app__](../../../project-management)
+- 🌱 learning __Node.js, Express and MongoDB__
+- 👀 looking for collaboration for an idea
+
+- 🏠 base in the Netherlands
+- ☕🥯✈💻⛹️‍♀️
