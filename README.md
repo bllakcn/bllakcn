@@ -15,6 +15,8 @@
 - 🔭 working on [__a project management app__](../../../project-management)
 - 🌱 learning __Node.js, Express and MongoDB__
 - 👀 looking for collaboration for an idea
+
 <br/>
+
 - 🏠 base in the Netherlands
 - ☕🥯✈💻⛹️‍♀️
