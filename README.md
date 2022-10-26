@@ -18,5 +18,5 @@
 
 <br/>
 
-- 🏠 base in the Netherlands
+- 🏠 based in the Netherlands
 - ☕🥯✈💻⛹️‍♀️
