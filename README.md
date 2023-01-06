@@ -13,7 +13,7 @@
 ### I am a __frontend developer__
 
 - 🔭 working on [__a project management app__](../../../project-management)
-- 🌱 learning __NextJS, Node.js, Express and MongoDB__
+- 🌱 learning __Svelte, Node.js, Express and MongoDB__
 - 👀 looking for collaboration for an idea
 
 <br/>
