@@ -12,9 +12,9 @@
 
 ### I am a __frontend developer__
 
-- 🔭 working on [__a project management app__](../../../project-management)
-- 🌱 learning __Svelte, Node.js, Express and MongoDB__
-- 👀 looking for collaboration for an idea
+- 🔭 enjoy working with __Next.js, React, Typescript, Prisma__
+- 🌱 learning __Node.js__
+<!-- - 👀 looking for collaboration for an idea -->
 
 <br/>
 
