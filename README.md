@@ -10,10 +10,10 @@
 </a>
 
 
-### I am a __frontend developer__
+### I am a __web developer__
 
-- 🔭 enjoy working with __Next.js, React, Typescript, Prisma__
-- 🌱 learning __Node.js__
+- 🔭 enjoy working with __Next.js, React, Typescript, Tailwindcss, Python, FastAPI__
+<!-- - 🌱 learning __Node.js__ -->
 <!-- - 👀 looking for collaboration for an idea -->
 
 <br/>
