@@ -1,4 +1,4 @@
-## Hi there! This is [Bilal](https://bilalakcan.netlify.app/) 👋
+## Hi there! This is [Bilal](https://bllakcn.vercel.app/) 👋
 <a href="https://www.instagram.com/bllakcn/" target="_blank" rel="noreferrer">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png" width="24">
 </a><a href="https://twitter.com/bllakcn" target="_blank" rel="noreferrer">
