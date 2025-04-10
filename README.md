@@ -13,8 +13,7 @@
 ### I am a __web developer__
 
 - 🔭 enjoy working with __Next.js, React, Typescript, Tailwindcss, Python, FastAPI__
-<!-- - 🌱 learning __Node.js__ -->
-<!-- - 👀 looking for collaboration for an idea -->
+- 🌱 learning __Go__
 
 <br/>
 
