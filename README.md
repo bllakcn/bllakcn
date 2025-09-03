@@ -12,8 +12,8 @@
 
 ### I am a __web developer__
 
-- 🔭 enjoy working with __Next.js, React, Typescript, Tailwindcss, Python, FastAPI__
-- 🌱 learning __Go__
+- 🔭 enjoy working with __Next.js, React, Typescript, Python, Go__
+- 🌱 learning __Java__
 
 <br/>
 
