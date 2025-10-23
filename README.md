@@ -12,7 +12,7 @@
 
 ### I am a __web developer__
 
-- 🔭 enjoy working with __Next.js, React, Typescript, Python, Go__
+- 🔭 enjoy working with __React, Typescript, Python, Go__
 - 🌱 learning __Java__
 
 <br/>
